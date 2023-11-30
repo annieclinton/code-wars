@@ -6,4 +6,4 @@ var countSheep = function (num){
   return str
 }
 
-// console.log(countSheep(3))
+console.log(countSheep(3))
