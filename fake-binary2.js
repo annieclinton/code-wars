@@ -9,4 +9,4 @@ function fakeBin(x){
   }
   return newStr
 }
-// console.log(fakeBin('444666'))
+console.log(fakeBin('444666'))
