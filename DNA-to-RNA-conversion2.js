@@ -4,4 +4,3 @@ function DNAtoRNA(dna) {
 
 console.log(DNAtoRNA("GCATT"))
 
-DNA-to-RNA-conversion2.js
