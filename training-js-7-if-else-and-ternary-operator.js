@@ -3,7 +3,7 @@
 //P: num, pos, whole, cents 
 //R: num, cents, return 
 //E:
-//
+///
 
 function saleHotdogs(n){
     if(n < 5){
