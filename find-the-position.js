@@ -82,4 +82,4 @@ function position(letter){
   }
 }
 
-console.log(position('z'))
+console.log(position('z')) // 26
